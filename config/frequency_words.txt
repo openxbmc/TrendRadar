@@ -1,3 +1,7 @@
+股票
+A股
+ETF
+
 AIGC
 AI数据中心
 
@@ -7,13 +11,11 @@ DeepSeek
 华为
 昇腾
 
-大疆
-DJI
-
 宇树
 王兴兴
 
 字节
+字节跳动
 bytedance
 
 特斯拉
@@ -29,6 +31,7 @@ NVIDIA
 谷歌
 google
 gemini
+banana
 deepmind
 
 chatgpt
@@ -51,8 +54,7 @@ ai
 芯片
 光刻机
 
-科技
-
+电力
+储能
 特高压
-
 可控核聚变
